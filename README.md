@@ -18,8 +18,8 @@ MAX Download: https://cycling74.com/downloads
 
 ## Steps to using the program: 
 
-1. You need to download OSC library in Processing.
-2. You also need to download OSC and CMAT external libraries in MAX. 
+1. You need to download OSC library in Processing -> http://www.sojamo.de/libraries/oscP5/ 
+2. You also need to download OSC/CMAT external libraries in MAX -> https://www.cnmat.berkeley.edu/downloads
 3. Download the zip file from Github
 4. Go to the 'data' folder and enter your own photo in (you can also test the code with the default photos) 
 5. Go to the processing patch and change the name of the input photo
