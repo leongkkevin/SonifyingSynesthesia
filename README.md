@@ -1,4 +1,5 @@
-# Sonifying Synesthesia
+# Sonifying Synesthesia 
+## Read before looking at the code
 Synesthesia is a neurological condition where sensory information meant to stimulate one of the senses stimulates another. A common example of this is being able to see color when hearing music. This program switches this process and creates music based on color data. 
 
 To see how the program works and examples check this video out! 
@@ -43,4 +44,6 @@ Aspects that are customizeable:
 - You may have changed the metronome to be too slow - mess around with the numbers. 
 - Make sure your input photo and its name in the code matches.
 - Any external files should go in the data folder. 
+
+** Initials next to work
 
