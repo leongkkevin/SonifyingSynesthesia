@@ -12,13 +12,19 @@ Blue Hex Data -> determines melody notes
 
 Green Hex Data -> detemines percussive notes 
 
+Processing Download: https://processing.org/download/
+
+MAX Download: https://cycling74.com/downloads
+
 ## Steps to using the program: 
 
-1. First download the zip file from Github
-2. Go to the 'data' folder and enter your own photo in (you can also test the code with the default photos) 
-3. Go to the processing patch and change the name of the input photo
-4. Make sure that the Max patch is turned ON 
-5. Play the processing patch
+1. You need to download OSC library in Processing.
+2. You also need to download OSC and CMAT external libraries in MAX. 
+3. Download the zip file from Github
+4. Go to the 'data' folder and enter your own photo in (you can also test the code with the default photos) 
+5. Go to the processing patch and change the name of the input photo
+6. Make sure that the Max patch is turned ON 
+7. Play the processing patch
 
 ## Customize the program:
 
@@ -29,3 +35,12 @@ Aspects that are customizeable:
 1. Delay settings 
 2. Color output 
 3. Volume 
+
+### Debugging Issues: 
+
+- If the sound isn't working check our Audio Output in Max.
+- Check your port number and make sure it matches in both programs. 
+- You may have changes the metronome to be too slow - mess around with the numbers. 
+- Make sure your input photo and its name in the code matches.
+- Any external files should go in the data folder. 
+
