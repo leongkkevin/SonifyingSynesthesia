@@ -1,4 +1,4 @@
-# SonifyingSynesthesia
+# Sonifying Synesthesia
 Synesthesia is a neurological condition where sensory information meant to stimulate one of the senses stimulates another. A common example of this is being able to see color when hearing music. This program switches this process and creates music based on color data. 
 
 To see how the program works and examples check this video out! 
