@@ -4,7 +4,7 @@ Synesthesia is a neurological condition where sensory information meant to stimu
 To see how the program works and examples check this video out! 
 https://vimeo.com/538724006
 
-How the code works: 
+####How the code works: 
 
 Red Hex Data -> determines chord notes 
 
@@ -12,11 +12,11 @@ Blue Hex Data -> determines melody notes
 
 Green Hex Data -> detemines percussive notes 
 
+## Steps to using the program: 
+
 Processing Download: https://processing.org/download/
 
 MAX Download: https://cycling74.com/downloads
-
-## Steps to using the program: 
 
 1. You need to download OSC library in Processing -> http://www.sojamo.de/libraries/oscP5/ 
 2. You also need to download OSC/CMAT external libraries in MAX -> https://www.cnmat.berkeley.edu/downloads
