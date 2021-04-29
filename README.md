@@ -40,7 +40,7 @@ Aspects that are customizeable:
 
 - If the sound isn't working check our Audio Output in Max.
 - Check your port number and make sure it matches in both programs. 
-- You may have changes the metronome to be too slow - mess around with the numbers. 
+- You may have changed the metronome to be too slow - mess around with the numbers. 
 - Make sure your input photo and its name in the code matches.
 - Any external files should go in the data folder. 
 
